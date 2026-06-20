@@ -1,0 +1,114 @@
+{
+  "collapse-filter": true,
+  "search": "-path:\"99_Hệ_thống/Templates\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:01_brain_dự_án",
+      "color": {
+        "a": 1,
+        "rgb": 5017087
+      }
+    },
+    {
+      "query": "path:02_brain_content",
+      "color": {
+        "a": 1,
+        "rgb": 4176208
+      }
+    },
+    {
+      "query": "path:03_brain_công_nghệ",
+      "color": {
+        "a": 1,
+        "rgb": 3786191
+      }
+    },
+    {
+      "query": "path:04_brain_open_source",
+      "color": {
+        "a": 1,
+        "rgb": 2996131
+      }
+    },
+    {
+      "query": "path:05_brain_tài_chính",
+      "color": {
+        "a": 1,
+        "rgb": 15769632
+      }
+    },
+    {
+      "query": "path:06_brain_bất_động_sản",
+      "color": {
+        "a": 1,
+        "rgb": 16273737
+      }
+    },
+    {
+      "query": "path:07_brain_kinh_doanh",
+      "color": {
+        "a": 1,
+        "rgb": 14377378
+      }
+    },
+    {
+      "query": "path:08_brain_phát_triển_bản_thân",
+      "color": {
+        "a": 1,
+        "rgb": 10711543
+      }
+    },
+    {
+      "query": "path:09_brain_bài_học",
+      "color": {
+        "a": 1,
+        "rgb": 14906426
+      }
+    },
+    {
+      "query": "path:50_Bản_đồ",
+      "color": {
+        "a": 1,
+        "rgb": 16765757
+      }
+    },
+    {
+      "query": "path:60_Nhật_ký",
+      "color": {
+        "a": 1,
+        "rgb": 5809919
+      }
+    },
+    {
+      "query": "path:90_Lưu_trữ",
+      "color": {
+        "a": 1,
+        "rgb": 7239297
+      }
+    },
+    {
+      "query": "path:99_Hệ_thống",
+      "color": {
+        "a": 1,
+        "rgb": 9147550
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.98854166666667,
+  "lineSizeMultiplier": 0.840104166666667,
+  "collapse-forces": false,
+  "centerStrength": 0.3,
+  "repelStrength": 16,
+  "linkStrength": 0.7,
+  "linkDistance": 91,
+  "scale": 0.35610240160290946,
+  "close": false
+}

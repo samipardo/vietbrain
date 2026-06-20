@@ -1,0 +1,7 @@
+# Chuẩn hóa line-ending cho cross-platform
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
